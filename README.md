@@ -2,8 +2,8 @@
 Created with Python and JSON</b>
 
 Content:
-[Data Saved](./#saves)
-[Process](./#saves)
+[Data Saved](/#saves)
+[Process](/#saves)
 
 
 Two day project to learn more about scraping html website.<br>

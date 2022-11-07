@@ -1,9 +1,14 @@
 ### Dictionary Web Scraper
 Created with Python and JSON</b>
 
+Content:
+[Data Saved](./#saves)
+[Process](./#saves)
+
+
 Two day project to learn more about scraping html website.<br>
 Saves the meaning of the word searched.<br>
-##### Saves:
+##### Data Saved (locally):
 - [x] the meaning
 - [x] 10 last searched history
 - [x] times the word searched in total

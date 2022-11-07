@@ -1,5 +1,5 @@
 ### Dictionary Web Scraper
-Created with Python and JSON</b>
+Created with Python, saves a local file in JSON format.</b>
 
 #### Contents:
 [Data Saved](https://github.com/DevNarayanSingh/Dictionary_Web_Scraper/blob/main/README.md#data-saved-locally)<br>

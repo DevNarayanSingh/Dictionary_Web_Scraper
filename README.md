@@ -1,9 +1,9 @@
 ### Dictionary Web Scraper
 Created with Python and JSON</b>
 
-Content:
-[Data Saved](/#saves)
-[Process](/#saves)
+#### Contents:
+[Data Saved](https://github.com/DevNarayanSingh/Dictionary_Web_Scraper/blob/main/README.md#data-saved-locally)<br>
+[Process](https://github.com/DevNarayanSingh/Dictionary_Web_Scraper/blob/main/README.md#code-process)<br>
 
 
 Two day project to learn more about scraping html website.<br>
